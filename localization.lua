@@ -7,4 +7,5 @@ L:RegisterTranslations("enUS", function() return {
 	["Message"] = true,
 	["Open CallToArms"] = true,
 	["Player"] = true,
+	["Time"] = true,
 } end)

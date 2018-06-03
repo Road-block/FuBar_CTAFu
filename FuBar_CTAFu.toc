@@ -1,7 +1,7 @@
 ## Interface: 11200
 ## Title: FuBar - |cffffffffCallToArms|r|cff00ff00Fu|r
 ## Notes: Adds a CallToArms button to FuBar.
-## Version: 1.0
+## Version: 1.0.4
 ## Dependencies: CallToArms, FuBar
 ## Author: Roadblock
 ## SavedVariables: FuBar_CTAFuDB
